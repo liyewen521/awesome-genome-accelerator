@@ -1,6 +1,8 @@
 # Genome-on-Silicon
 A Collection of Papers on Genome Accelerators, from 2018 to Now.
 
+---
+
 ## HPCA 2018
 Searching for Potential gRNA Off-Target Sites for CRISPR/Cas9 Using Automata Processing Across Different Platforms, UVA
 
