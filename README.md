@@ -80,6 +80,8 @@ SeGraM: a universal hardware accelerator for genomic sequence-to-graph and seque
 
 BioHD: an efficient genome sequence search platform using HyperDimensional memorization, UCI
 
+EDAM: Edit Distance tolerant Approximate Matching content addressable memory, Technion-Israel Institute of Technology
+
 ## MICRO 2022
 BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memory Pool with the CXL Support, UCSB
 
