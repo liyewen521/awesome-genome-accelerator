@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f62fbb5b-0af0-4c42-b730-3a65e9b07ea9)# Genome-on-Silicon
+# Genome-on-Silicon
 A Collection of Papers on Genome Accelerators, from 2018 to Now.
 
 ---
