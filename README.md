@@ -1,4 +1,4 @@
-# Genome-on-Silicon
+![image](https://github.com/user-attachments/assets/f62fbb5b-0af0-4c42-b730-3a65e9b07ea9)# Genome-on-Silicon
 A Collection of Papers on Genome Accelerators, from 2018 to Now.
 
 ---
@@ -117,6 +117,8 @@ Harp: Leveraging Quasi-Sequential Characteristics to Accelerate Sequence-to-Grap
 
 ## ISCA 2024
 QUETZAL: Vector Acceleration Framework For Modern Genome Sequence Analysis, ETHZ
+
+BLESS: Bandwidth and Locality Enhanced SMEM Seeding Acceleration for DNA Sequencing, KAIST
 
 ## MICRO 2024
 TBD...
