@@ -116,9 +116,11 @@ TALCO: Tiling Genome Sequence Alignment Using Convergence of Traceback Pointers,
 Harp: Leveraging Quasi-Sequential Characteristics to Accelerate Sequence-to-Graph Mapping of Long Reads, THU
 
 ## ISCA 2024
-QUETZAL: Vector Acceleration Framework For Modern Genome Sequence Analysis, ETHZ
+QUETZAL: Vector Acceleration Framework For Modern Genome Sequence Analysis, Barcelona Supercomputing Center
 
 BLESS: Bandwidth and Locality Enhanced SMEM Seeding Acceleration for DNA Sequencing, KAIST
+
+MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing, ETHZ
 
 ## MICRO 2024
 TBD...
