@@ -15,6 +15,12 @@ GenAx: A Genome Sequencing Accelerator, UofM
 ## MICRO 2018
 NONE
 
+## ISSCC 2018
+NONE
+
+## DAC 2018
+NONE
+
 ---
 
 ## HPCA 2019
@@ -33,6 +39,12 @@ GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment, Univer
 
 MEDAL: Scalable DIMM-based Near Data Processing Accelerator for DNA Seeding Algorithm, UCSB
 
+## ISSCC 2019
+NONE
+
+## DAC 2019
+NONE
+
 ---
 
 ## HPCA 2020
@@ -49,6 +61,12 @@ SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Spa
 
 GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis, ETHZ
 
+## ISSCC 2020
+NONE
+
+## DAC 2020
+PIM-Assembler: A Processing-in-Memory Platform for Genome Assembly, Arizona State University
+
 ---
 
 ## HPCA 2021
@@ -64,6 +82,12 @@ Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-
 
 ## MICRO 2021
 SquiggleFilter: An Accelerator for Portable Virus Detection, UofM
+
+## ISSCC 2021
+NONE
+
+## DAC 2021
+NONE
 
 ---
 
@@ -87,6 +111,12 @@ BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memo
 
 GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping, ETHZ
 
+## ISSCC 2022
+NONE
+
+## DAC 2022
+NONE
+
 ---
 
 ## HPCA 2023
@@ -107,6 +137,16 @@ CASA: An Energy-Efficient and High-Speed CAM-based SMEM Seeding Accelerator for 
 
 GMX: Instruction Set Extensions for Fast, Scalable, and Efficient Genome Sequence Alignment, Barcelona Supercomputing Center
 
+## ISSCC 2023
+A Fully Integrated End-to-End Genome Analysis Accelerator for Next-Generation Sequencing, NTU
+
+## DAC 2023
+Invited: Accelerating Genome Analysis via Algorithm-Architecture Co-Design, ETHZ
+
+ASMCap: An Approximate String Matching Accelerator for Genome Sequence Analysis Based on Capacitive Content Addressable Memory, THU
+
+MeG2: In-Memory Acceleration for Genome Graphs Analysis, HUST
+
 ---
 
 ## HPCA 2024
@@ -124,3 +164,10 @@ MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis wit
 
 ## MICRO 2024
 TBD...
+
+## ISSCC 2024
+NONE
+
+## DAC 2024
+TBD...
+
