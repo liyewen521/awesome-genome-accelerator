@@ -1,8 +1,6 @@
 # Awesome Genome Accelerator
 A Collection of Papers on Genome Accelerators at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
 
----
-
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
 | 2018 | HPCA       | Searching for Potential gRNA Off-Target Sites for CRISPR/Cas9 Using Automata Processing Across Different Platforms                                           | UVA  |
